@@ -36,7 +36,7 @@ python main.py
 | Key | Action |
 |-----|--------|
 | `↑ ↓ ← →` or `W A S D` | Move snake |
-| `R` / `Space` / `Enter` | Restart after game over |
+| `ANY KEY` | Restart after game over |
 
 ##  ✨ Features
 
