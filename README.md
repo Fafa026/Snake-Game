@@ -3,10 +3,10 @@
 A clean Pygame snake game with a high score tracker.
 
 ### Start screen
-![Start Screen](start.png)
+![Start Screen](Start.png)
 
 ### Game Over
-![Game Over](game_over.png)
+![Game Over](Game_over.png)
 
 ## Setup
 
