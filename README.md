@@ -2,6 +2,12 @@
 
 A clean Pygame snake game with a high score tracker.
 
+### Start screen
+![Start Screen](start.png)
+
+### Game Over
+![Game Over](game_over.png)
+
 ## Setup
 
 ```bash
